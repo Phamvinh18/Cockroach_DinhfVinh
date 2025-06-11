@@ -26,6 +26,14 @@
 [![](https://visitcount.itsvg.in/api?id=Phamvinh18&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🐍 My GitHub Activity Snake
+
+![github contribution snake](https://raw.githubusercontent.com/Phamvinh18/Cockroach_DinhfVinh/output/github-snake.svg)
+
+<!-- Nếu muốn thêm ảnh gif động: -->
+![github contribution snake gif](https://raw.githubusercontent.com/Phamvinh18/Cockroach_DinhfVinh/output/ocean.gif)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phamvinh18/Cockroach_DinhfVinh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phamvinh18/Cockroach_DinhfVinh/output/github-snake.svg" />
