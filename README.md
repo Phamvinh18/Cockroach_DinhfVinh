@@ -1,4 +1,8 @@
 # Cockroach_DinhfVinh
+# 👋 Hello everyone viewing my profile! I am a noob pentester - new to the information security field but extremely passionate about finding security holes on the web. 
+#🔍 I like to research tools like Burp Suite, DVWA, HackTheBox, and am trying to build a solid architecture to participate in real projects and lab simulations (pentest lab, CTF). 
+#🚀 Every hole discovered, no matter how small, is a victory and a motivation for me to learn more every day! 
+#🤝 If you are also studying or want to connect to learn together, share experiences, do not inbox!
 # 💫 About Me:
 🔭 I'm currently studying<br>👯 I'm looking for collaboration on projects related to web security, especially vulnerability assessment and attack simulation platforms in secure environments (CTF, pentest lab).<br>🤝 I'm looking for help with a career in cybersecurity<br>🌱 I'm currently studying web pentesting<br>💬 Ask me about my process of getting started in web pentesting, resources for beginners, or basic tools like Burp Suite, DVWA, and HackTheBox that I'm learning about.<br>⚡ Fun fact: I can spend hours poking around a website just to find a small vulnerability – to me, every challenge is an exciting puzzle!
 
