@@ -26,15 +26,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Phamvinh18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![Pentest In Progress](https://img.shields.io/badge/Web%20Pentest-In%20Progress-red)
-![Bug Bounty Hunter](https://img.shields.io/badge/Bug%20Bounty-Hacker%20Mindset-black)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-User-green)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-In%20Use-orange)
-![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-Learning-blue)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Power%20Up-purple)
-![SQL Injection](https://img.shields.io/badge/SQLi-Test%20Before%20You%20Trust-lightgrey)
-![Cross-Site Scripting](https://img.shields.io/badge/XSS-Danger-yellow)
-![CTF Player](https://img.shields.io/badge/CTF-Participant-informational)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Joke](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&textColor=%23fff)
 
 
 ### 🔝 Top Contributed Repo
