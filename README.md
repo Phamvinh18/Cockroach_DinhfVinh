@@ -1,4 +1,6 @@
 # Cockroach_DinhfVinh
+# 👨‍💻 Noob Pentester | Web Security Enthusiast
+
 👋Hello everyone! Thanks for visiting my profile. I am a new n00b pentester who is just starting my journey in Information Security, with a special interest in web security and pentesting.
 
 🔍 Currently, I am learning and practicing tools such as Burp Suite, DVWA and HackTheBox, and integrating building a solid foundation architecture to be able to participate in real projects, lab simulations (pentest labs) and these CTF journeys.
