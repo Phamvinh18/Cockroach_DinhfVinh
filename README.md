@@ -26,7 +26,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Phamvinh18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) \n
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ![Joke](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&textColor=%23fff)
 
 
