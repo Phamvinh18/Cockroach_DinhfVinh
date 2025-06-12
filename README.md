@@ -26,9 +26,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Phamvinh18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![Pentest](https://img.shields.io/badge/Web%20Pentest-In%20Progress-red)
-![SQL Injection](https://img.shields.io/badge/SQLi-Test%20It%2C%20Don%27t%20Trust%20It-blue)
-![XSS](https://img.shields.io/badge/XSS-Reflect%2C%20Store%2C%20Dom-yellow)
+![Hacker Banner](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/hacker.png)
 
 
 ### 🔝 Top Contributed Repo
