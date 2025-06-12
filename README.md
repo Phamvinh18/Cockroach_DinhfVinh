@@ -30,6 +30,8 @@
 
 ![Joke](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&textColor=%23fff)
 
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed&animation=grow_out_in)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Phamvinh18&limit=5&theme=dark&combine_all_yearly_contributions=true)
