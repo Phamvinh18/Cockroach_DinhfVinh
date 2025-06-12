@@ -30,7 +30,7 @@
 
 ![Joke](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230D1117&textColor=%23fff)
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed&animation=grow_out_in)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed&animation=grow_out_in&theme=dark)
 
 
 ### 🔝 Top Contributed Repo
