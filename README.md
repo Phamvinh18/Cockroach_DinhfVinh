@@ -1,5 +1,5 @@
 # Cockroach_DinhfVinh
-![(https://images.alphacoders.com/139/thumb-1920-1392029.jpg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F838302918137996698%2F&psig=AOvVaw0V_UTcTNJ124GtW_AzH8em&ust=1750250929399000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjolIy_-I0DFQAAAAAdAAAAABAt)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F838302918137996698%2F&psig=AOvVaw0V_UTcTNJ124GtW_AzH8em&ust=1750250929399000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjolIy_-I0DFQAAAAAdAAAAABAt)
 # 👨‍💻 Noob Pentester | Web Security Enthusiast
 
 👋Hello everyone! Thanks for visiting my profile. I am a new n00b pentester who is just starting my journey in Information Security, with a special interest in web security and pentesting.
